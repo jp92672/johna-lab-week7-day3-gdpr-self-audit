@@ -6,6 +6,7 @@ This repository contains everything you need for this lab.
 
 ## Files
 
+- [`GDPR Audit - John Adams.md`](./GDPR%20Audit%20-%20John%20Adams.md) — the deliverable. Structured to mirror `instructions.md`'s own section headers exactly (Kick-off, CFU checkpoints 1-4, Phase 1-6, Reinforce, Stretch), covering the Virtual Coffee Chat Bot (Week 5 Project).
 - [`instructions.md`](./instructions.md) — the lab instructions
 - [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
 
